@@ -31,12 +31,17 @@
   - Using **Python, Jupyter Notebooks** and a generated dataset, practice common data cleaning techniques to standardize the data for cleaning.
   - Visualize missing data to facilittate sharing of information
   - Created code to fill missing data with the average of the data above and below, rather then use a back or forward fill. 
-- **Data Visualization, with K-Nearest Neighbors**
-- **Simple T-Test** Marketing landing page sample data
+- **Data Visualization, with K-Nearest Neighbors and Logistic Regression**
+  - Using **Python, Jupyter Notebooks, and the sklearn iris dataset** perform basic data exploration and visualization
+  - Perform basic correlation analysis of the data, and visualize.
+  - Compare the **accuracy scores** for Logistic Regression and K-Nearest Neighbors models. 
+- **Simple T-Test**
+  - A **simple t-tes**t can be a valuable tool for comparing the average revenue of two marketing landing pages, especially in the context of A/B testing.
 - **Paired T-Test**
-- **Anova Test with Tukey** Comparison of marketing channels
+  -  A **paired t-test** would be highly appropriate to compare the average revenue of a marketing landing page before and after a change 
+- **Anova Test with Tukey**
+  - Using generated data, we can show that **ANOVA** (Analysis of Variance) followed by a **Tukey HSD** (Honestly Significant Difference) test is a for testing the average values of different marketing channels. 
 - **Chi-Squared**
 - **Linear Regression**
-- **Logistic Regression**
 - **Churn Prediction**
 - **Recommendation Engine**
