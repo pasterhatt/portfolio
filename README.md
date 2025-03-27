@@ -18,6 +18,9 @@ Managed projects covering marketing, SEO, site design and
 deployment, analytics analysis and forecasting for a variety of 
 
 ## Education
+
 M.A. ECONOMICS
+
 B.A. ECONOMICS
+
 Data Scientist Certificate
