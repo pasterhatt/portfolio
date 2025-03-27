@@ -1,7 +1,9 @@
 # Scott Newport
 ## Data Scientist, Director of Demand Generation
-#### Technical Skills: Python, SQL, Jupyter Notebooks
-#### Professional Skills: LinkedIn Campaign Manager, Google Ads, Bing Ads, Facebook, Google Tag Manager, Google Analytics, Salesforce, Google Search Console
+#### Technical Skills:
+  - Python, SQL, Jupyter Notebooks
+#### Professional Skills: 
+  - LinkedIn Campaign Manager, Google Ads, Bing Ads, Facebook, Google Tag Manager, Google Analytics, Salesforce, Google Search Console
 
 ## Education
 - M.A. Economics, University of New Hampshire at Durham
