@@ -1,7 +1,7 @@
 # Scott Newport
 ## Data Scientist, Director of Demand Generation
 #### Technical Skills:
-  - Python, SQL, Jupyter Notebooks
+  - Python, SQL, Jupyter Notebooks, Power BI, Tableau 
 #### Professional Skills: 
   - LinkedIn Campaign Manager, Google Ads, Bing Ads, Facebook, Google Tag Manager, Google Analytics, Salesforce, Google Search Console
 
