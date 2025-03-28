@@ -13,7 +13,7 @@
 
 
 ## Work Experience
-**DIRECTOR, DEMAND GENERATION | 2018 – Present | O’Reilly Learning**
+**DIRECTOR, DEMAND GENERATION | 2018 – Present | [O’Reilly Learning](www.oreilly.com)**
 - Leadership over paid channel management, development, forecasting and pipeline. Substantially decreased cost per acquisition across business and consumer product categories for our SaaS offering.
 - Consistently generate pipeline growth year over year, with increased MQL’s, SQL’s and ROAS.
 
