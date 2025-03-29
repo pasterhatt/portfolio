@@ -17,13 +17,13 @@
 - Leadership over paid channel management, development, forecasting and pipeline. Substantially decreased cost per acquisition across business and consumer product categories for our SaaS offering.
 - Consistently generate pipeline growth year over year, with increased MQL’s, SQL’s and ROAS.
 
-**DIRECTOR, ONLINE MARKETING | 2014- 2018 | ADP**
+**DIRECTOR, ONLINE MARKETING | 2014- 2018 | [ADP](https://www.adp.com/)**
 - Managed cross-functional team of 4, across a 3-website portfolio. Oversaw a seven-figure monthly marketing budget. Grew new product line into a multimillion-dollar product. Managed the team through an acquisition. 
 
-**SENIOR MANAGER, ONLINE MARKETING |2011 – 2013 | Ipswich Software**
+**SENIOR MANAGER, ONLINE MARKETING |2011 – 2013 | [Ipswich Software (now Progress)](https://www.progress.com/)**
 - Oversaw marketing efforts for existing and acquired SaaS product lines. Grew sales pipeline consistently. 
 
-**SENIOR PROJECT MANAGER | 2009-2011 | Nowspeed Marketing**
+**SENIOR PROJECT MANAGER | 2009-2011 | [[Nowspeed Marketing](https://nowspeed.com/)**
 - Managed projects covering marketing, SEO, site design an deployment, analytics analysis and forecasting for a variety of 
 
 ## Marketing Data Science Sample Projects
