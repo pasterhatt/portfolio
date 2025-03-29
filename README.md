@@ -44,5 +44,5 @@
 - **Chi-Squared**
   - Using generated data, compare the goodness of fit
   - using the Citytemp dataset available in statsmodels, test the independance of variables
-- **Stock Price Tracking**
+- **[Stock Price Tracking](https://github.com/pasterhatt/Stock_tracker_time)**
   - Time series and visualization practice using th yfinance package 
