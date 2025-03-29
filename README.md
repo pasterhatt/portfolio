@@ -42,6 +42,7 @@
 - **Anova Test with Tukey**
   - Using generated data, we can show that **ANOVA** (Analysis of Variance) followed by a **Tukey HSD** (Honestly Significant Difference) test is a for testing the average values of different marketing channels. 
 - **Chi-Squared**
-- **Linear Regression**
-- **Churn Prediction**
-- **Recommendation Engine**
+  - Using generated data, compare the goodness of fit
+  - using the Citytemp dataset available in statsmodels, test the independance of variables
+- **Stock Price Tracking**
+  - Time series and visualization practice using th yfinance package 
