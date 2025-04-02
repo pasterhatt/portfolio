@@ -7,9 +7,9 @@
   - LinkedIn Campaign Manager, Google Ads, Bing Ads, Facebook, Google Tag Manager, Google Analytics, Salesforce, Google Search Console
 
 #### Table of Contents
-#### [Education](#Education)
-#### [Work Experience](#Work Experience)
-#### [Data Science Portfolio](#Marketing Data Science Sample Projects)
+[Education](#Education)
+[Work Experience](#Experience)
+[Data Science Portfolio](#Projects)
   - Data Visualization
   - Data Cleaning
   - Hypothesis Testing
@@ -23,7 +23,7 @@
 - Certificate, Data Analyst, Code Academy 
 
 
-## Work Experience
+## Experience
 **DIRECTOR, DEMAND GENERATION | 2018 – Present | [O’Reilly Learning](www.oreilly.com)**
 - Leadership over paid channel management, development, forecasting and pipeline. Substantially decreased cost per acquisition across business and consumer product categories for our SaaS offering.
 - Consistently generate pipeline growth year over year, with increased MQL’s, SQL’s and ROAS.
@@ -37,7 +37,7 @@
 **SENIOR PROJECT MANAGER | 2009-2011 | [[Nowspeed Marketing](https://nowspeed.com/)**
 - Managed projects covering marketing, SEO, site design an deployment, analytics analysis and forecasting for a variety of 
 
-## Marketing Data Science Sample Projects
+## Projects
 - **Data Cleaning**
   - Using **Python, Jupyter Notebooks** and a generated dataset, practice common data cleaning techniques to standardize the data for cleaning.
   - Visualize missing data to facilittate sharing of information
