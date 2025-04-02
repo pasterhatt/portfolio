@@ -8,7 +8,9 @@
 
 #### Table of Contents
 [Education](#Education)
+
 [Work Experience](#Experience)
+
 [Data Science Portfolio](#Projects)
   - Data Visualization
   - Data Cleaning
