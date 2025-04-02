@@ -6,10 +6,10 @@
 #### Professional Skills: 
   - LinkedIn Campaign Manager, Google Ads, Bing Ads, Facebook, Google Tag Manager, Google Analytics, Salesforce, Google Search Console
 
-## Table of Contents
-### [Education](#Education)
-### [Work Experience](#Work Experience)
-### [Data Science Portfolio](#Marketing Data Science Sample Projects)
+#### Table of Contents
+#### [Education](#Education)
+#### [Work Experience](#Work Experience)
+#### [Data Science Portfolio](#Marketing Data Science Sample Projects)
   - Data Visualization
   - Data Cleaning
   - Hypothesis Testing
