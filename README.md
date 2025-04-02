@@ -8,8 +8,8 @@
 
 ## Table of Contents
 ### [Education](#Education)
-### [Work Experience](Work Experience)
-### [Data Science Portfolio]
+### [Work Experience](#Work Experience)
+### [Data Science Portfolio](#Marketing Data Science Sample Projects)
   - Data Visualization
   - Data Cleaning
   - Hypothesis Testing
