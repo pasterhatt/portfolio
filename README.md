@@ -2,21 +2,23 @@
 <spnewport@gmail.com>
 ## Data Scientist, Director of Demand Generation
 #### Technical Skills:
-  - Python, SQL, Jupyter Notebooks, Power BI, Tableau 
+  - Python, SQL, Jupyter Notebooks, Power BI, Tableau. MS Office, Google Suite 
 #### Professional Skills: 
   - LinkedIn Campaign Manager, Google Ads, Bing Ads, Facebook, Google Tag Manager, Google Analytics, Salesforce, Google Search Console
 
 #### Table of Contents
 [Education](#Education)
-
 [Work Experience](#Experience)
-
 [Data Science Portfolio](#Projects)
   - Data Visualization
   - Data Cleaning
   - Hypothesis Testing
   - Machine Learning
   - Natural Language Processing
+[Misc. Python Projects]
+  - Chords in a Key Finder
+  - Stock Tracking
+  - Windows folder Creator
 
 ## Education
 - M.A. Economics, University of New Hampshire at Durham
@@ -40,22 +42,17 @@
 - Managed projects covering marketing, SEO, site design an deployment, analytics analysis and forecasting for a variety of 
 
 ## Projects
-- **Data Cleaning**
+- **[Data Cleaning](https://github.com/pasterhatt/data_cleaning/blob/main/Portfolio_Data_Cleaning_Commented.ipynb)**
   - Using **Python, Jupyter Notebooks** and a generated dataset, practice common data cleaning techniques to standardize the data for cleaning.
   - Visualize missing data to facilittate sharing of information
   - Created code to fill missing data with the average of the data above and below, rather then use a back or forward fill. 
-- **Data Visualization, with K-Nearest Neighbors and Logistic Regression**
+- **[Data Visualization](https://github.com/pasterhatt/data_viz/blob/main/Portfolio%20_Data_Viz_Commented.ipynb)**
+  - Use common python visualization packages and explore the IRIS dataset for insights.   
+- **[ML with several ML Methods](https://github.com/pasterhatt/ML_Models/blob/main/Portfolio%20_ML_Commented.ipynb)**
   - Using **Python, Jupyter Notebooks, and the sklearn iris dataset** perform basic data exploration and visualization
   - Perform basic correlation analysis of the data, and visualize.
-  - Compare the **accuracy scores** for Logistic Regression and K-Nearest Neighbors models. 
-- **Simple T-Test**
-  - A **simple t-tes**t can be a valuable tool for comparing the average revenue of two marketing landing pages, especially in the context of A/B testing.
-- **Paired T-Test**
-  -  A **paired t-test** would be highly appropriate to compare the average revenue of a marketing landing page before and after a change 
-- **Anova Test with Tukey**
+  - Compare the **accuracy scores** for Logistic Regression, decision tree and K-Nearest Neighbors models.
+  - Use data visualization to compare hypertuning of the models. 
+- **[Hypothesis Testing with Anova and a Tukey Test](https://github.com/pasterhatt/ANOVA/blob/main/Portfolio_ANOVA_w_tukey_test.ipynb)**
   - Using generated data, we can show that **ANOVA** (Analysis of Variance) followed by a **Tukey HSD** (Honestly Significant Difference) test is a for testing the average values of different marketing channels. 
-- **Chi-Squared**
-  - Using generated data, compare the goodness of fit
-  - using the Citytemp dataset available in statsmodels, test the independance of variables
-- **[Stock Price Tracking](https://github.com/pasterhatt/Stock_tracker_time)**
-  - Time series and visualization practice using th yfinance package 
+
