@@ -7,9 +7,9 @@
   - LinkedIn Campaign Manager, Google Ads, Bing Ads, Facebook, Google Tag Manager, Google Analytics, Salesforce, Google Search Console
 
 #### Table of Contents
-[Education](#Education) (<br/>)
-[Work Experience](#Experience)(<br/>)
-[Data Science Portfolio](#Projects)(<br/>)
+[Education](#Education) <br/>
+[Work Experience](#Experience)<br/>
+[Data Science Portfolio](#Projects)<br/>
   - Data Visualization
   - Data Cleaning
   - Hypothesis Testing
