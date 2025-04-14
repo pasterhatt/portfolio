@@ -42,6 +42,10 @@
 - Managed projects covering marketing, SEO, site design an deployment, analytics analysis and forecasting for a variety of 
 
 ## Projects
+-**[Machine Learning : User vs. Bot](https://github.com/pasterhatt/user_v_bot/blob/main/Portfolio_Users%20vs%20bots%20classification_V2.ipynb)**
+  - Using **Python, Jupyter Notebooks, and the [User vs Bot Kaggle dataset](https://www.kaggle.com/code/morpho23/bot-or-not-detecting-automated-accounts)** perform basic data exploration and visualization
+  - Compare the **accuracy scores** for Logistic Regression, Decision tree and K-Nearest Neighbors models. Explain the meaning of those comparisons. 
+  - Use data visualization to compare hypertuning of the models. 
 - **[Data Cleaning](https://github.com/pasterhatt/data_cleaning/blob/main/Portfolio_Data_Cleaning_Commented.ipynb)**
   - Using **Python, Jupyter Notebooks** and a generated dataset, practice common data cleaning techniques to standardize the data for cleaning.
   - Visualize missing data to facilittate sharing of information
