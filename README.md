@@ -38,7 +38,7 @@
 **SENIOR MANAGER, ONLINE MARKETING |2011 – 2013 | [Ipswich Software (now Progress)](https://www.progress.com/)**
 - Oversaw marketing efforts for existing and acquired SaaS product lines. Grew sales pipeline consistently. 
 
-**SENIOR PROJECT MANAGER | 2009-2011 | [[Nowspeed Marketing](https://nowspeed.com/)**
+**SENIOR PROJECT MANAGER | 2009-2011 | [Nowspeed Marketing](https://nowspeed.com/)**
 - Managed projects covering marketing, SEO, site design an deployment, analytics analysis and forecasting for a variety of 
 
 ## Projects
